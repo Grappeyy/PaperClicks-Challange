@@ -1,2 +1,2 @@
-# PaperClicks Challange
+PaperClicks Challange
  
